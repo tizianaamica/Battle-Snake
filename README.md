@@ -9,5 +9,4 @@ Snake se empezara a mover automaticamente, debes usar los controles Derecha o Iz
 para dispararle a los enemigos debes usar la Barra Espaciadora. Mientras mas subas de nivel, mas enemigos entras... Suerte!
 
 Cretidos
-Tiziana Amicarella
-Ali Colmenares
+Tiziana Amicarella and Ali Colmenares
